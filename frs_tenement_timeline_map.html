@@ -2471,6 +2471,20 @@ buildTimeline();
 // Start with full end-state view (no story mode)
 showEndState();
 
+// ── Auto-open panel from URL query param (e.g. ?panel=resources) ──
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var panel = params.get('panel');
+  if (panel === 'resources') {
+    setTimeout(function() {
+      resourcesVisible = true;
+      resourcesBtn.classList.add('active');
+      resourcesBtn.textContent = 'Hide FRS';
+      showResourceHighlights();
+    }, 500);
+  }
+})();
+
 // ── "Show All" button (only visible in story mode) ──
 var showAllActive = false;
 var showAllBtn = document.getElementById('show-all-btn');
