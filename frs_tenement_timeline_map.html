@@ -531,16 +531,17 @@ body:not(.story-mode) #step-counter{display:none}
       #utility-buttons button { font-size: 9px !important; padding: 3px 8px !important; }
       #play-story-btn { z-index: 1002 !important; font-size: 11px !important; padding: 6px 14px !important; left: auto !important; right: 10px !important; }
 
-      /* Phase bar full width */
-      #phase-bar { right: 0 !important; }
+      /* Phase bar: hidden on mobile — too small to be useful */
+      #phase-bar { display: none !important; }
 
-      /* Map legend: move to top-right on mobile to avoid sheet overlap */
-      #map-legend { bottom: auto !important; top: 32px !important; right: 8px !important; font-size: 8px !important; padding: 4px 8px !important; }
-      #map-legend .legend-swatch { width: 12px; height: 8px; }
+      /* Map legend: compact on mobile */
+      #map-legend { bottom: auto !important; top: 32px !important; right: 8px !important; font-size: 7px !important; padding: 3px 6px !important; max-width: 150px !important; }
+      #map-legend .legend-swatch { width: 10px; height: 7px; }
       body.story-mode #map-legend { top: 32px !important; bottom: auto !important; }
 
       /* Timeline bar smaller on mobile */
       #timeline-bar { height: 70px !important; }
+      .tl-track-wrap { overflow: hidden !important; }
       body.story-mode #step-counter { bottom: 86px !important; }
 
       /* Compact timeline controls */
@@ -1744,8 +1745,9 @@ var tooltip = document.getElementById('tl-tooltip');
 function computeNodePositions() {
   var wrap = document.querySelector('.tl-track-wrap');
   var wrapWidth = wrap.clientWidth;
-  var pad = 16, minGap = 18;
+  var pad = 16;
   var usable = wrapWidth - pad * 2;
+  var minGap = EVENTS.length > 1 ? Math.min(18, usable / (EVENTS.length - 1)) : 18;
 
   var dates = EVENTS.map(function(e) { return new Date(e.date).getTime(); });
   var minD = Math.min.apply(null, dates), maxD = Math.max.apply(null, dates);
@@ -2410,6 +2412,13 @@ function enterStoryMode() {
 
   // Invalidate map after transition
   setTimeout(function() { map.invalidateSize(); }, 450);
+
+  // Recompute timeline node positions now that the bar is visible
+  setTimeout(function() {
+    var positions = computeNodePositions();
+    tlNodes.forEach(function(node, i) { node.style.left = positions[i] + 'px'; });
+    addPhaseBandsAndYearDividers(positions);
+  }, 50);
 }
 
 function exitStoryMode() {
