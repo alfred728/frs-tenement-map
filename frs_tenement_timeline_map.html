@@ -8,7 +8,7 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#ffffff;color:#1f2328;overflow:hidden;height:100vh;position:relative}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#ffffff;color:#1f2328;overflow:hidden;height:100vh;height:100dvh;position:relative}
 /* Top banner */
 #top-banner{position:absolute;top:0;left:0;right:0;height:36px;background:#0d1117;z-index:1001;display:flex;align-items:center;justify-content:space-between;padding:0 16px;border-bottom:1px solid rgba(255,255,255,0.08)}
 #top-banner .banner-left{display:flex;align-items:center;gap:10px}
@@ -718,6 +718,18 @@ body:not(.story-mode) #step-counter{display:none}
 <div id="step-counter"><span class="step-num" id="step-num">0</span> / <span id="step-total">29</span></div>
 <div id="tl-tooltip"></div>
 <script>
+
+// ── iOS Safari viewport height fix ──
+// 100vh on iOS Safari includes space behind the toolbar, hiding bottom-positioned
+// elements like the timeline bar. This ensures body matches the visible viewport.
+(function() {
+  // Only apply JS fallback if dvh is not supported
+  if (!CSS || !CSS.supports || !CSS.supports('height', '100dvh')) {
+    function syncHeight() { document.body.style.height = window.innerHeight + 'px'; }
+    syncHeight();
+    window.addEventListener('resize', syncHeight);
+  }
+})();
 
 // ── Landing page gate ──
 (function() {
@@ -1686,7 +1698,7 @@ function updateMobileButtonPositions() {
     }
   }
 
-  var btnBottom = sheetH + tlBarH + gap;
+  var btnBottom = Math.max(16, sheetH + tlBarH + gap);
   utilBtns.style.bottom = btnBottom + 'px';
   playBtn.style.bottom = btnBottom + 'px';
 }
