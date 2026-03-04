@@ -437,12 +437,12 @@ body:not(.story-mode) #step-counter{display:none}
       /* Event card: bottom sheet */
       #event-card {
         top: auto !important; right: 0 !important; left: 0 !important; bottom: 0 !important;
-        width: 100% !important; max-height: 42vh !important; border-radius: 16px 16px 0 0 !important;
+        width: 100% !important; max-height: 35vh !important; border-radius: 16px 16px 0 0 !important;
         padding: 10px 14px 14px !important; border: none !important; border-top: 2px solid #d0d7de !important;
-        box-shadow: 0 -4px 24px rgba(0,0,0,0.15) !important;
+        box-shadow: 0 -4px 24px rgba(0,0,0,0.15) !important; overflow-y: auto !important;
       }
       /* Collapse handle — sticky at top of scrollable card */
-      #mobile-sheet-handle { display: block !important; position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,0.97); margin: -10px -14px 4px; padding: 8px 0 4px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+      #mobile-sheet-handle { display: block !important; position: sticky; top: -10px; z-index: 50; background: #fff; margin: -10px -14px 8px; padding: 18px 0 6px; cursor: pointer; -webkit-tap-highlight-color: transparent; }
       /* Collapsed state — show summary bar instead of full content */
       #event-card.mobile-collapsed,
       body.story-mode #event-card.mobile-collapsed { max-height: 72px !important; overflow: hidden !important; }
@@ -458,7 +458,7 @@ body:not(.story-mode) #step-counter{display:none}
       .leaflet-popup-close-button { width: 28px !important; height: 28px !important; font-size: 20px !important; padding: 4px !important; }
 
       /* Collapse handles for panels — hidden on desktop, visible on mobile */
-      .mobile-panel-handle { display: block; text-align: center; padding: 6px 0 2px; cursor: pointer; -webkit-tap-highlight-color: transparent; position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,0.97); margin: -14px -14px 4px; }
+      .mobile-panel-handle { display: block; text-align: center; padding: 22px 0 6px; cursor: pointer; -webkit-tap-highlight-color: transparent; position: sticky; top: -14px; z-index: 50; background: #fff; margin: -14px -14px 8px; }
       .mobile-panel-handle .handle-bar { width: 36px; height: 4px; background: #c0c0c0; border-radius: 2px; margin: 0 auto; pointer-events: none; }
       .mobile-panel-handle .handle-label { font-size: 9px; color: #8c959f; margin-top: 3px; pointer-events: none; }
       .mobile-panel-handle .handle-summary { display: none; font-size: 11px; color: #1f2328; margin-top: 4px; font-weight: 600; pointer-events: none; }
@@ -466,8 +466,8 @@ body:not(.story-mode) #step-counter{display:none}
       /* Resource panel: bottom sheet */
       #resource-panel {
         top: auto !important; right: 0 !important; left: 0 !important; bottom: 0 !important;
-        width: 100% !important; max-height: 70vh !important; border-radius: 16px 16px 0 0 !important;
-        padding: 14px !important;
+        width: 100% !important; max-height: 55vh !important; border-radius: 16px 16px 0 0 !important;
+        padding: 14px !important; overflow-y: auto !important;
       }
       #resource-panel .rp-title { font-size: 14px; }
       #resource-panel .rp-row .rp-name { font-size: 11px; }
@@ -484,8 +484,8 @@ body:not(.story-mode) #step-counter{display:none}
       /* Nearby panel: bottom sheet */
       #nearby-panel {
         top: auto !important; right: 0 !important; left: 0 !important; bottom: 0 !important;
-        width: 100% !important; max-height: 70vh !important; border-radius: 16px 16px 0 0 !important;
-        padding: 14px !important;
+        width: 100% !important; max-height: 55vh !important; border-radius: 16px 16px 0 0 !important;
+        padding: 14px !important; overflow-y: auto !important;
       }
       #nearby-panel .np-title { font-size: 14px; }
       /* Nearby panel collapsed */
@@ -501,9 +501,9 @@ body:not(.story-mode) #step-counter{display:none}
       /* Tenement list panel: bottom sheet */
       #tenement-list-panel {
         top: auto !important; right: 0 !important; left: 0 !important; bottom: 0 !important;
-        width: 100% !important; max-height: 75vh !important; border-radius: 16px 16px 0 0 !important;
+        width: 100% !important; max-height: 60vh !important; border-radius: 16px 16px 0 0 !important;
         padding: 14px !important; border: none !important; border-top: 2px solid #238636 !important;
-        box-shadow: 0 -4px 24px rgba(35,134,54,0.2) !important;
+        box-shadow: 0 -4px 24px rgba(35,134,54,0.2) !important; overflow-y: auto !important;
       }
       #tenement-list-panel .tl-table .tsource { display: none; }
       #tenement-list-panel .tl-table th:nth-child(4) { display: none; }
@@ -522,7 +522,7 @@ body:not(.story-mode) #step-counter{display:none}
       #tenement-list-panel.mobile-collapsed .handle-summary { display: block !important; }
 
       /* Story mode adjustments */
-      body.story-mode #event-card { bottom: 70px !important; max-height: 38vh !important; }
+      body.story-mode #event-card { bottom: 70px !important; max-height: 30vh !important; }
       body.story-mode #event-card.mobile-collapsed { bottom: 70px !important; }
       body.story-mode #map { bottom: 70px !important; }
 
@@ -1671,17 +1671,17 @@ function updateMobileButtonPositions() {
   var eventCard = document.getElementById('event-card');
 
   if (tenementListVisible && tenementListPanel.style.display !== 'none') {
-    sheetH = tenementPanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.75;
+    sheetH = tenementPanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.60;
   } else if (resourcesVisible && resourcePanel.style.display !== 'none') {
-    sheetH = resourcePanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.70;
+    sheetH = resourcePanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.55;
   } else if (nearbyVisible && nearbyPanel.style.display !== 'none') {
-    sheetH = nearbyPanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.70;
+    sheetH = nearbyPanelCollapsed ? COLLAPSED_PANEL_H : window.innerHeight * 0.55;
   } else if (eventCard.style.display !== 'none') {
     // Event card is showing
     if (mobileCollapsed) {
       sheetH = 72; // collapsed height with summary
     } else {
-      sheetH = storyMode ? window.innerHeight * 0.38 : window.innerHeight * 0.42;
+      sheetH = storyMode ? window.innerHeight * 0.30 : window.innerHeight * 0.35;
     }
   }
 
@@ -1689,6 +1689,9 @@ function updateMobileButtonPositions() {
   utilBtns.style.bottom = btnBottom + 'px';
   playBtn.style.bottom = btnBottom + 'px';
 }
+
+// Initial call — position buttons on page load
+updateMobileButtonPositions();
 
 // Recheck on resize
 window.addEventListener('resize', function() {
