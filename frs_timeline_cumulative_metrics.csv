@@ -1,0 +1,30 @@
+event_index,date,title,phase,phase_name,project,counterparties,consideration,tenement_ids_added,tenement_count_geo,tenements_added_story,cumulative_tenement_count,cumulative_area_km2,is_kula,confidence
+0,2024-09-03,Withdrawal from Koolyanobbing Iron Ore Option (Netley Minerals),1,Leadership Reset,,,,,0,0,0,0.0,False,high
+1,2025-02-18,Daniel Raihani appointed NED; David Izzard resigns,1,Leadership Reset,,,,,0,0,0,0.0,False,high
+2,2025-05-16,David Geraghty appointed Non-Executive Director,1,Leadership Reset,,,,,0,0,0,0.0,False,high
+3,2025-07-24,Geraghty appointed Non-Executive Chairman; Hannaford resigns; Turnbull joins,1,Leadership Reset,,,,,0,0,0,0.0,False,high
+4,2025-08-01,British Hill Gold Project acquisition (IMD Gold Pty Ltd),2,Acquisition Blitz,British Hill,,$6m,E77/1965;M77/1256,2,4,2,27.4,False,high
+5,2025-08-11,Hyden Project Holdings binding option (Lady Ada and Lady Magdalene gold deposits),2,Acquisition Blitz,,,,,0,0,2,27.4,False,medium – option only; completion unconfirmed
+6,2025-08-14,North Ironcap Gold Project acquisition (North Iron Cap Pty Ltd),2,Acquisition Blitz,North Ironcap,,"$0.11; $2,781,266; $70",M77/219;M77/544;M77/99,3,3,5,39.9,False,high
+7,2025-08-27,$8.61M Placement at $0.205/share (42M shares),2,Acquisition Blitz,,,,,0,0,5,39.9,False,high
+8,2025-09-12,Burracoppin Gold Project acquisition (Askari Metals / First Western Gold Pty Ltd),2,Acquisition Blitz,Burracoppin,Askari Metals,"$700,000; $250,000; $450,000; $0.06",E47/5019;E52/3718;E52/3719;E70/5049;E70/5997;E70/5998;E70/6127;E70/6753;E80/5313,9,9,14,197.8,False,high
+9,2025-09-23,Westonia Gold Project (4 ELs) acquired from Kula Gold Ltd,3,Kula Convergence,Westonia,Kula Gold Ltd,"$500,000; $1,000,000",E77/2756;E77/2766;E77/3234;E77/3237,4,4,18,414.1,True,high
+10,2025-09-23,$1.87M equity investment in Kula Gold Ltd (7.37% at 2.2c/share),3,Kula Convergence,,,,,0,0,18,414.1,True,high
+11,2025-10-13,Bid Implementation Deed signed with Kula Gold Ltd,3,Kula Convergence,,,,,0,0,18,414.1,True,high
+12,2025-11-13,Horizon Minerals announces Lake Johnston divestment ($35M) — Binding HOA with FRS,4,Infrastructure Play,,,,,0,0,18,414.1,False,high
+13,2025-11-17,Lake Johnston acquisition HOA executed + $34M capital raising announced,4,Infrastructure Play,,,,,0,14,18,414.1,False,high
+14,2025-11-17,Geraghty transitions to Executive Chairman; Brett Hodgins joins as Technical Director,4,Infrastructure Play,,,,,0,0,18,414.1,False,high
+15,2025-11-18,"Jaurdi Hill – 3 binding agreements (ALS, FMM, DDM)",4,Infrastructure Play,Jaurdi Hill,,"$1,399,660; $350,000; $300; $100",M16/193;M16/194;M16/254;M16/255;M16/585;M77/94;P16/2980;P16/2981,8,8,26,419.7,False,high
+16,2025-11-20,Off-market takeover bid for Kula Gold Ltd formally launched,3,Kula Convergence,,,,,0,0,26,419.7,True,high
+17,2025-12-09,"Mt Dimer, Mt Jackson and Johnston Range acquisition from Goldzone Investments",4,Infrastructure Play,Mt Dimer,Goldzone Investments Pty Ltd,"$600,000; $3,550,000; $500,000",E77/2750,1,1,27,534.7,False,high
+18,2025-12-22,Kula takeover offer declared unconditional,3,Kula Convergence,,,,,0,0,27,534.7,True,high
+19,2025-12-31,Formal Lake Johnston Sale Agreement executed; ECI partners selected and engaged,4,Infrastructure Play,,,,,0,14,27,534.7,False,high
+20,2026-01-12,Mantis Resources acquisition (3 ELs adjacent to Lake Johnston),4,Infrastructure Play,,,"$235,000",E63/2244;E63/2256;E63/2411,3,3,30,637.9,False,high
+21,2026-01-12,$37M total capital raising complete (Placement + SPP),4,Infrastructure Play,,,,,0,0,30,637.9,False,high
+22,2026-01-15,Gibraltar acquisition (M15/60 + M15/193 + P15/6203; Coolgardie hub),4,Infrastructure Play,Gibraltar,,"$2,500,000; $40,000; $2.5m; $2.5",M15/193;M15/60;P15/6203,3,3,33,638.2,False,high
+23,2026-01-16,ACE Group (Kerry Stokes associates) + Timothy Roberts / Goodoil emerge as substantial shareholders,4,Infrastructure Play,,,,,0,0,33,638.2,False,high
+24,2026-01-22,Kula takeover bid closes; 90%+ voting power; compulsory acquisition of remaining shares proceeds,3,Kula Convergence,,,,,0,0,33,638.2,True,high
+25,2026-02-02,"Mt Palmer 100% secured: Newcam Minerals Binding HoA (AMPPL, AJRPL, AMDPL)",5,Production Readiness,Mt Palmer,Newcam Minerals Pty Ltd,"$0.475; $18m; $6.16m; $40; $2,400,000",E16/489;E16/623;E16/656;E77/2210;E77/2423;E77/2560;E77/2595;E77/2668;E77/2999;E77/3000;E77/3037;E77/3038;E77/3113;E77/3261;G77/119;L16/135;L77/245;L77/247;L77/248;L77/330;M77/1263;M77/406;P77/4576;P77/4689,24,24,57,984.4,True,high
+26,2026-02-13,Lake Johnston divestment formally COMPLETES (Horizon Minerals confirms),5,Production Readiness,,,,,0,0,57,984.4,False,high
+27,2026-02-13,"Mt Dimer, Mt Jackson & Johnson Range acquisition completes",5,Production Readiness,,,,,0,0,57,984.4,False,high
+28,2026-02-19,Westgold Ore Purchase Agreement executed (Gibraltar stockpile ore),5,Production Readiness,,,,,0,0,57,984.4,False,high

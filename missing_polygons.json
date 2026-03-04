@@ -1,0 +1,585 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "E47/5019",
+      "tenement_display": "E 47/5019",
+      "tenure_status": "PENDING",
+      "all_holders": "FIRST WESTERN GOLD PTY LTD",
+      "source_layer": "Pending",
+      "mentions": 1,
+      "forms": "Other",
+      "project_hints": "Burracoppin",
+      "sample_sources": "Filings (6)/Filings/Forrestania_Resources_Limited_-_Form_Other(Oct-17-2025).pdf#p1",
+      "resource_oz_au": 82700,
+      "resource_tonnes": 2143000,
+      "resource_grade_gpt": "1.2",
+      "resource_deposits": "Burracoppin",
+      "resource_adopted_by_frs": "no",
+      "project_code": "",
+      "project_codes": "",
+      "project_titles": "",
+      "project_count": 0,
+      "lease_type": "EXPLORATION LICENCE",
+      "lease_category": "Exploration",
+      "is_mining_lease": false,
+      "is_exploration_lease": true,
+      "distance_km_edna_may_mill": 889.1,
+      "distance_km_lake_johnston_mill": 1023.1,
+      "distance_km_higginsville_processing_hub_westgold": 1013.0,
+      "nearest_mill": "Edna May Mill",
+      "nearest_mill_km": 889.1
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            117.783343437,
+            -23.3333198609999
+          ],
+          [
+            117.783343425,
+            -23.349986526
+          ],
+          [
+            117.766676765,
+            -23.349986526
+          ],
+          [
+            117.75001011,
+            -23.349986524
+          ],
+          [
+            117.73334345,
+            -23.3499865329999
+          ],
+          [
+            117.733343455,
+            -23.333319864
+          ],
+          [
+            117.716676795,
+            -23.3333198669999
+          ],
+          [
+            117.7166768,
+            -23.349986534
+          ],
+          [
+            117.700010153,
+            -23.34998652
+          ],
+          [
+            117.700010147,
+            -23.333319855
+          ],
+          [
+            117.700010132,
+            -23.316653183
+          ],
+          [
+            117.716676788,
+            -23.3166531869999
+          ],
+          [
+            117.733343452,
+            -23.316653194
+          ],
+          [
+            117.750010114,
+            -23.3166531969999
+          ],
+          [
+            117.766676775,
+            -23.316653198
+          ],
+          [
+            117.783343442,
+            -23.3166531969999
+          ],
+          [
+            117.783343437,
+            -23.3333198609999
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "E52/3718",
+      "tenement_display": "E 52/3718",
+      "tenure_status": "LIVE",
+      "all_holders": "FIRST WESTERN GOLD PTY LTD",
+      "source_layer": "Live",
+      "mentions": 1,
+      "forms": "Other",
+      "project_hints": "Burracoppin",
+      "sample_sources": "Filings (6)/Filings/Forrestania_Resources_Limited_-_Form_Other(Oct-17-2025).pdf#p1",
+      "resource_oz_au": 82700,
+      "resource_tonnes": 2143000,
+      "resource_grade_gpt": "1.2",
+      "resource_deposits": "Burracoppin",
+      "resource_adopted_by_frs": "no",
+      "project_code": "J02827",
+      "project_codes": "J02827; J04058",
+      "project_titles": "Mt Maguire; Mt Maguire / Askari",
+      "project_count": 2,
+      "lease_type": "EXPLORATION LICENCE",
+      "lease_category": "Exploration",
+      "is_mining_lease": false,
+      "is_exploration_lease": true,
+      "distance_km_edna_may_mill": 886.0,
+      "distance_km_lake_johnston_mill": 1019.6,
+      "distance_km_higginsville_processing_hub_westgold": 1009.4,
+      "nearest_mill": "Edna May Mill",
+      "nearest_mill_km": 886.0
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            117.766676762,
+            -23.36665319
+          ],
+          [
+            117.750010106,
+            -23.366653189
+          ],
+          [
+            117.75001011,
+            -23.349986524
+          ],
+          [
+            117.766676765,
+            -23.349986526
+          ],
+          [
+            117.783343425,
+            -23.349986526
+          ],
+          [
+            117.783343421,
+            -23.3666531919999
+          ],
+          [
+            117.766676762,
+            -23.36665319
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "E52/3719",
+      "tenement_display": "E 52/3719",
+      "tenure_status": "LIVE",
+      "all_holders": "FIRST WESTERN GOLD PTY LTD",
+      "source_layer": "Live",
+      "mentions": 1,
+      "forms": "Other",
+      "project_hints": "Burracoppin",
+      "sample_sources": "Filings (6)/Filings/Forrestania_Resources_Limited_-_Form_Other(Oct-17-2025).pdf#p1",
+      "resource_oz_au": 82700,
+      "resource_tonnes": 2143000,
+      "resource_grade_gpt": "1.2",
+      "resource_deposits": "Burracoppin",
+      "resource_adopted_by_frs": "no",
+      "project_code": "J04058",
+      "project_codes": "J04058",
+      "project_titles": "Mt Maguire",
+      "project_count": 1,
+      "lease_type": "EXPLORATION LICENCE",
+      "lease_category": "Exploration",
+      "is_mining_lease": false,
+      "is_exploration_lease": true,
+      "distance_km_edna_may_mill": 883.8,
+      "distance_km_lake_johnston_mill": 1017.0,
+      "distance_km_higginsville_processing_hub_westgold": 1006.4,
+      "nearest_mill": "Edna May Mill",
+      "nearest_mill_km": 883.8
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            117.800010119,
+            -23.3833198529999
+          ],
+          [
+            117.783343446,
+            -23.383319855
+          ],
+          [
+            117.783343421,
+            -23.3666531919999
+          ],
+          [
+            117.800010106,
+            -23.36665319
+          ],
+          [
+            117.816676765,
+            -23.36665319
+          ],
+          [
+            117.816676788,
+            -23.383319854
+          ],
+          [
+            117.800010119,
+            -23.3833198529999
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "E80/5313",
+      "tenement_display": "E 80/5313",
+      "tenure_status": "LIVE",
+      "all_holders": "FIRST WESTERN GOLD PTY LTD",
+      "source_layer": "Live",
+      "mentions": 1,
+      "forms": "Other",
+      "project_hints": "Burracoppin",
+      "sample_sources": "Filings (6)/Filings/Forrestania_Resources_Limited_-_Form_Other(Oct-17-2025).pdf#p1",
+      "resource_oz_au": 82700,
+      "resource_tonnes": 2143000,
+      "resource_grade_gpt": "1.2",
+      "resource_deposits": "Burracoppin",
+      "resource_adopted_by_frs": "no",
+      "project_code": "J05899",
+      "project_codes": "J05899",
+      "project_titles": "Horry; Mt Dockrell Tailings",
+      "project_count": 1,
+      "lease_type": "EXPLORATION LICENCE",
+      "lease_category": "Exploration",
+      "is_mining_lease": false,
+      "is_exploration_lease": true,
+      "distance_km_edna_may_mill": 1620.3,
+      "distance_km_lake_johnston_mill": 1625.4,
+      "distance_km_higginsville_processing_hub_westgold": 1529.9,
+      "nearest_mill": "Higginsville Processing Hub (Westgold)",
+      "nearest_mill_km": 1529.9
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            127.166676409,
+            -18.883319564
+          ],
+          [
+            127.150009837,
+            -18.883319575
+          ],
+          [
+            127.150010035,
+            -18.8666527689999
+          ],
+          [
+            127.166676456,
+            -18.866652894
+          ],
+          [
+            127.166676409,
+            -18.883319564
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "L77/221",
+      "tenement id": "L  7700221",
+      "tenement type": "MISCELLANEOUS LICENCE",
+      "survey status": "UNSURVEYED",
+      "tenure status": "LIVE",
+      "number of holders": "1",
+      "tenement holder 1": "IMD GOLD MINES PROPRIETARY LIMITED",
+      "address for holder 1": "C/- MCMAHON MINING TITLE SERVICES PTY LTD,PO BOX 6301,EAST PERTH,WA,6892,AUSTRALIA",
+      "tenement holder 2": " ",
+      "address for holder 2": " ",
+      "tenement holder 3": " ",
+      "address for holder 3": " ",
+      "tenement holder 4": " ",
+      "address for holder 4": " ",
+      "tenement holder 5": " ",
+      "address for holder 5": " ",
+      "tenement holder 6": " ",
+      "address for holder 6": " ",
+      "tenement holder 7": " ",
+      "address for holder 7": " ",
+      "tenement holder 8": " ",
+      "address for holder 8": " ",
+      "tenement holder 9": " ",
+      "address for holder 9": " ",
+      "start date": "16/09/2010",
+      "start time": "14:15:00",
+      "end date": "24/08/2032",
+      "end time": "23:59:59",
+      "grant date": "25/08/2011",
+      "grant time": "00:00:00",
+      "formatted tenement id": "L 77/221",
+      "legal area": "26.13",
+      "unit of measure": "HA.",
+      "special purpose indicater": " ",
+      "extract date": "20/02/2026",
+      "combined reporting number": " ",
+      "all tenement holders": "IMD GOLD MINES PROPRIETARY LIMITED"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            119.631244869,
+            -31.822863754
+          ],
+          [
+            119.631677326,
+            -31.8232155169999
+          ],
+          [
+            119.636015864,
+            -31.819789075
+          ],
+          [
+            119.604754145,
+            -31.7934696309999
+          ],
+          [
+            119.604826788,
+            -31.7922958139999
+          ],
+          [
+            119.605349343,
+            -31.7921047579999
+          ],
+          [
+            119.60538223,
+            -31.793276416
+          ],
+          [
+            119.636646613,
+            -31.8196858219999
+          ],
+          [
+            119.631898672,
+            -31.823571649
+          ],
+          [
+            119.631280681,
+            -31.824125505
+          ],
+          [
+            119.630629436,
+            -31.8235077329999
+          ],
+          [
+            119.631244869,
+            -31.822863754
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "L77/223",
+      "tenement id": "L  7700223",
+      "tenement type": "MISCELLANEOUS LICENCE",
+      "survey status": "UNSURVEYED",
+      "tenure status": "LIVE",
+      "number of holders": "1",
+      "tenement holder 1": "IMD GOLD MINES PROPRIETARY LIMITED",
+      "address for holder 1": "C/- MCMAHON MINING TITLE SERVICES PTY LTD,PO BOX 6301,EAST PERTH,WA,6892,AUSTRALIA",
+      "tenement holder 2": " ",
+      "address for holder 2": " ",
+      "tenement holder 3": " ",
+      "address for holder 3": " ",
+      "tenement holder 4": " ",
+      "address for holder 4": " ",
+      "tenement holder 5": " ",
+      "address for holder 5": " ",
+      "tenement holder 6": " ",
+      "address for holder 6": " ",
+      "tenement holder 7": " ",
+      "address for holder 7": " ",
+      "tenement holder 8": " ",
+      "address for holder 8": " ",
+      "tenement holder 9": " ",
+      "address for holder 9": " ",
+      "start date": "20/10/2010",
+      "start time": "21:50:00",
+      "end date": "17/10/2032",
+      "end time": "23:59:59",
+      "grant date": "18/10/2011",
+      "grant time": "00:00:00",
+      "formatted tenement id": "L 77/223",
+      "legal area": "32",
+      "unit of measure": "HA.",
+      "special purpose indicater": " ",
+      "extract date": "20/02/2026",
+      "combined reporting number": " ",
+      "all tenement holders": "IMD GOLD MINES PROPRIETARY LIMITED"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            119.614353992,
+            -31.837325063
+          ],
+          [
+            119.629565779,
+            -31.8248119749999
+          ],
+          [
+            119.630269703,
+            -31.823541416
+          ],
+          [
+            119.631318304,
+            -31.8225708689999
+          ],
+          [
+            119.632889827,
+            -31.822088805
+          ],
+          [
+            119.6368648,
+            -31.818812704
+          ],
+          [
+            119.637731937,
+            -31.816230603
+          ],
+          [
+            119.638833519,
+            -31.815832251
+          ],
+          [
+            119.641005494,
+            -31.8190993979999
+          ],
+          [
+            119.64006792,
+            -31.8197580459999
+          ],
+          [
+            119.637288392,
+            -31.8193132449999
+          ],
+          [
+            119.614777731,
+            -31.837794296
+          ],
+          [
+            119.614353992,
+            -31.837325063
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "tenement_id": "L77/224",
+      "tenement id": "L  7700224",
+      "tenement type": "MISCELLANEOUS LICENCE",
+      "survey status": "UNSURVEYED",
+      "tenure status": "LIVE",
+      "number of holders": "1",
+      "tenement holder 1": "IMD GOLD MINES PROPRIETARY LIMITED",
+      "address for holder 1": "C/- MCMAHON MINING TITLE SERVICES PTY LTD,PO BOX 6301,EAST PERTH,WA,6892,AUSTRALIA",
+      "tenement holder 2": " ",
+      "address for holder 2": " ",
+      "tenement holder 3": " ",
+      "address for holder 3": " ",
+      "tenement holder 4": " ",
+      "address for holder 4": " ",
+      "tenement holder 5": " ",
+      "address for holder 5": " ",
+      "tenement holder 6": " ",
+      "address for holder 6": " ",
+      "tenement holder 7": " ",
+      "address for holder 7": " ",
+      "tenement holder 8": " ",
+      "address for holder 8": " ",
+      "tenement holder 9": " ",
+      "address for holder 9": " ",
+      "start date": "20/10/2010",
+      "start time": "22:40:00",
+      "end date": "24/08/2032",
+      "end time": "23:59:59",
+      "grant date": "25/08/2011",
+      "grant time": "00:00:00",
+      "formatted tenement id": "L 77/224",
+      "legal area": "2",
+      "unit of measure": "HA.",
+      "special purpose indicater": " ",
+      "extract date": "20/02/2026",
+      "combined reporting number": " ",
+      "all tenement holders": "IMD GOLD MINES PROPRIETARY LIMITED"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            119.393073439,
+            -31.3499891869999
+          ],
+          [
+            119.393559356,
+            -31.349809567
+          ],
+          [
+            119.39382765,
+            -31.35004564
+          ],
+          [
+            119.394345001,
+            -31.350131856
+          ],
+          [
+            119.394585705,
+            -31.350626839
+          ],
+          [
+            119.393281975,
+            -31.351297124
+          ],
+          [
+            119.392983755,
+            -31.350796627
+          ],
+          [
+            119.393167156,
+            -31.350436228
+          ],
+          [
+            119.393073439,
+            -31.3499891869999
+          ]
+        ]
+      ]
+    }
+  }
+]

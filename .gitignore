@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Large data directories (PDFs, announcements)
+FRS Announcements Master/
+New FRS Announcements/
+ingestion/
+
+# Large binary files
+*.zip
+*.pdf
+*.xlsx
+
+# Output files
+keyword_matches_output.txt
+
+# Claude internal
+.claude/

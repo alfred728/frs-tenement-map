@@ -1,0 +1,1554 @@
+[
+  {
+    "tenement_id": "P15/6720",
+    "project": "Baker Mine",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2814",
+    "project": "Blue Hill",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2865",
+    "project": "Blue Hill Rocks 2",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/1534",
+    "project": "Bonnie Vale",
+    "holder": "OUTBACK MINERALS PTY LTD",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/1632",
+    "project": "Bonnie Vale",
+    "holder": "OUTBACK MINERALS PTY LTD",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/2016",
+    "project": "Bonnie Vale",
+    "holder": "JOSEPH ROBERT BRADLEY",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Bradley tenement acquisition"
+  },
+  {
+    "tenement_id": "E15/2024",
+    "project": "Bonnie Vale",
+    "holder": "JOSEPH ROBERT BRADLEY",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Bradley tenement acquisition"
+  },
+  {
+    "tenement_id": "E15/2143",
+    "project": "Bonnie Vale",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E15/2159",
+    "project": "Bonnie Vale",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P15/6878",
+    "project": "Bonnie Vale",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Bradley tenement acquisition"
+  },
+  {
+    "tenement_id": "E29/1158",
+    "project": "Breakaway Dam",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/1965",
+    "project": "British Hill",
+    "holder": "IMD GOLD MINES PROPRIETARY LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "British Hill Gold Project acquisition (IMD Gold)"
+  },
+  {
+    "tenement_id": "L77/221",
+    "project": "British Hill",
+    "holder": "IMD GOLD MINES PROPRIETARY LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "British Hill Gold Project acquisition (IMD Gold)"
+  },
+  {
+    "tenement_id": "L77/223",
+    "project": "British Hill",
+    "holder": "IMD GOLD MINES PROPRIETARY LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "British Hill Gold Project acquisition (IMD Gold)"
+  },
+  {
+    "tenement_id": "L77/224",
+    "project": "British Hill",
+    "holder": "IMD GOLD MINES PROPRIETARY LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "British Hill Gold Project acquisition (IMD Gold)"
+  },
+  {
+    "tenement_id": "M77/1256",
+    "project": "British Hill",
+    "holder": "IMD GOLD MINES PROPRIETARY LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "British Hill Gold Project acquisition (IMD Gold)"
+  },
+  {
+    "tenement_id": "E77/2554",
+    "project": "Broadbents",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "M77/1286",
+    "project": "Broadbents",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "M77/1295",
+    "project": "Broadbents",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E70/5660",
+    "project": "Brunswick",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2750",
+    "project": "Bungalbin",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E47/5019",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E52/3718",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E52/3719",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E70/5049",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E70/5997",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E70/5998",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E70/6127",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "E80/5313",
+    "project": "Burracoppin",
+    "holder": "FIRST WESTERN GOLD PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Burracoppin Gold Project acquisition (Askari Metals)"
+  },
+  {
+    "tenement_id": "M15/193",
+    "project": "Coolgardie Hub (Gibraltar)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Gibraltar acquisition (16 Jan 2026)",
+    "event_source": "Gibraltar acquisition (M15/60 + M15/193 + P15/6203)"
+  },
+  {
+    "tenement_id": "M15/60",
+    "project": "Coolgardie Hub (Gibraltar)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Gibraltar acquisition (16 Jan 2026)",
+    "event_source": "Gibraltar acquisition (M15/60 + M15/193 + P15/6203)"
+  },
+  {
+    "tenement_id": "P15/6203",
+    "project": "Coolgardie Hub (Gibraltar)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Gibraltar acquisition (16 Jan 2026)",
+    "event_source": "Gibraltar acquisition (M15/60 + M15/193 + P15/6203)"
+  },
+  {
+    "tenement_id": "E25/663",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3253",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3284",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3334",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3350",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3387",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3411",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3478",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3490",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3512",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E28/3540",
+    "project": "Eastern Goldfields Hub",
+    "holder": "AMERY HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Eastern Goldfields Hub - Amery Holdings (25 Feb 2026)",
+    "event_source": "Eastern Goldfields Hub consolidation - 11 ELs acquired from Amery Holdings"
+  },
+  {
+    "tenement_id": "E77/3193",
+    "project": "Elvire",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2758",
+    "project": "Elvire Rock",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2792",
+    "project": "Elvire Rock East",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E29/1321",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2637",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2701",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2764",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2819",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2872",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2873",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2887",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2888",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2905",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/3046",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Additional organic tenement applications"
+  },
+  {
+    "tenement_id": "E77/3316",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3337",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3339",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3340",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3341",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3344",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3345",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3346",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3347",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3348",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3349",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3350",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3351",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/3352",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "P77/4600",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P77/4717",
+    "project": "Forrestania",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/2044",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E29/1215",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E29/1216",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E29/1253",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E29/1307",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E29/1308",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E30/572",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E30/580",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E30/581",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E31/1409",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E31/1410",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E31/1411",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E31/1440",
+    "project": "Forrestania (Legacy)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E63/2187",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E63/2188",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E63/2190",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E63/2408",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E63/2414",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E77/2915",
+    "project": "Forrestania Hub",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Announcement: Forrestania Hub consolidation - Flynn Gold (25 Feb 2026)",
+    "event_source": "Forrestania Hub consolidation - 6 ELs acquired from Flynn Gold Limited"
+  },
+  {
+    "tenement_id": "E77/3005",
+    "project": "Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P26/4435",
+    "project": "Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P77/4372",
+    "project": "Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P77/4598",
+    "project": "Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P77/4611",
+    "project": "Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2791",
+    "project": "Jackson North",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/1764",
+    "project": "Jaurdi",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E16/675",
+    "project": "Jaurdi",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Application",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Additional organic tenement applications"
+  },
+  {
+    "tenement_id": "P16/3563",
+    "project": "Jaurdi Hill",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "M16/193",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "M16/194",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "M16/254",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "M16/255",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "M16/585",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "M77/94",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "P16/2980",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "P16/2981",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Jaurdi Hill - 3 binding agreements (ALS, FMM, DDM)"
+  },
+  {
+    "tenement_id": "P16/3580",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P16/3585",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P16/3586",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "P16/3590",
+    "project": "Jaurdi Hill (Bonnie Vale)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/2015",
+    "project": "Jaurdi West",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E16/489",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E16/623",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E16/656",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/2560",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/2595",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/2999",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/3000",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/3037",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/3038",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/3113",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/3261",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "G77/119",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "L16/135",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "L77/245",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "L77/247",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "L77/248",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "L77/330",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "M77/1263",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "P77/4576",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "P77/4689",
+    "project": "Johnson Range",
+    "holder": "AURUMIN JOHNSON RANGE PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mt Palmer / Newcam Minerals HoA (2 Feb 2026)",
+    "event_source": "Mt Palmer 100% secured: Newcam Minerals Binding HoA"
+  },
+  {
+    "tenement_id": "E77/2802",
+    "project": "Johnston Range",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2803",
+    "project": "Johnston Range South",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E70/5452",
+    "project": "Kirup",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E70/6603",
+    "project": "Kirup",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E70/6626",
+    "project": "Kirup",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E70/6627",
+    "project": "Kirup",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Application",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2207",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "E77/2219",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "E77/2220",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "E77/2239",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "E77/2460",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "E77/2711",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "M77/1310",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "P77/4534",
+    "project": "Lady Ada / Lady Magdalene",
+    "holder": "HYDEN PROJECT HOLDINGS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Hyden Project Holdings binding option (Lady Ada and Lady Magdalene)"
+  },
+  {
+    "tenement_id": "M77/1325",
+    "project": "Lady Lila (Forrestania Hub)",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Live",
+    "source": "Prior-year ASX quarterly filings",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E63/2244",
+    "project": "Lake Johnston",
+    "holder": "MANTIS RESOURCES PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mantis Resources acquisition (12 Jan 2026)",
+    "event_source": "Mantis Resources acquisition (3 ELs adjacent to Lake Johnston)"
+  },
+  {
+    "tenement_id": "E63/2256",
+    "project": "Lake Johnston",
+    "holder": "MANTIS RESOURCES PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mantis Resources acquisition (12 Jan 2026)",
+    "event_source": "Mantis Resources acquisition (3 ELs adjacent to Lake Johnston)"
+  },
+  {
+    "tenement_id": "E63/2411",
+    "project": "Lake Johnston",
+    "holder": "MANTIS RESOURCES PTY LTD",
+    "status": "Live",
+    "source": "Announcement: Mantis Resources acquisition (12 Jan 2026)",
+    "event_source": "Mantis Resources acquisition (3 ELs adjacent to Lake Johnston)"
+  },
+  {
+    "tenement_id": "E63/2557",
+    "project": "Lake Johnston",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E63/2558",
+    "project": "Lake Johnston",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E63/2559",
+    "project": "Lake Johnston",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "DMIRS register (not yet disclosed in ASX filings)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E28/3029",
+    "project": "Lake Rebecca",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E63/2549",
+    "project": "Leake",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Application",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Additional organic tenement applications"
+  },
+  {
+    "tenement_id": "L15/312",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "L15/352",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "L15/355",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "L15/375",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/128",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/133",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/147",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/148",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/1808",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "M15/40",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "P15/6071",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "P15/6085",
+    "project": "MacPhersons Reward",
+    "holder": "BEACON MINING PTY LTD",
+    "status": "Live",
+    "source": "Announcement: MacPhersons Reward acquisition (16 Feb 2026)",
+    "event_source": "MacPhersons Reward acquisition binding HoA (Beacon Minerals / BCN)"
+  },
+  {
+    "tenement_id": "E77/2822",
+    "project": "Marda",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2210",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2423",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2621",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2668",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/3231",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Application",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "M77/1302",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Application",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "M77/406",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "P77/4527",
+    "project": "Marvel Loch",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E16/624",
+    "project": "Mount Finnerty",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/3125",
+    "project": "Mount Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/1803",
+    "project": "Mount Walter",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E15/1814",
+    "project": "Mount Walter East",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2749",
+    "project": "Mt Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "M77/1299",
+    "project": "Mt Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "M77/544",
+    "project": "North Ironcap",
+    "holder": "WESTERN AREAS NICKEL PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "North Ironcap Gold Project acquisition"
+  },
+  {
+    "tenement_id": "E77/2793",
+    "project": "North Rainy Rocks",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2742",
+    "project": "South of Boondine Hill",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/2636",
+    "project": "West Jackson",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  },
+  {
+    "tenement_id": "E77/3234",
+    "project": "Westonia",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/3237",
+    "project": "Westonia",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2756",
+    "project": "Westonia - Sandford Rocks",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E70/6753",
+    "project": "Westonia / Burracoppin",
+    "holder": "FORRESTANIA RESOURCES LIMITED",
+    "status": "Pending",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": "Organic ground pegging (20 tenement applications)"
+  },
+  {
+    "tenement_id": "E77/2766",
+    "project": "Westonia South",
+    "holder": "KULA GOLD LIMITED",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly - Kula Gold Schedule (Dec 2025)",
+    "event_source": "Acquisition of Kula Gold Ltd (ASX: KGD)"
+  },
+  {
+    "tenement_id": "E77/2866",
+    "project": "Yeeding Hill North",
+    "holder": "GOLDZONE INVESTMENTS PTY LTD",
+    "status": "Live",
+    "source": "Q2 FY26 Quarterly (Dec 2025)",
+    "event_source": null
+  }
+]
