@@ -63,11 +63,14 @@ body{
 }
 .columns-grid{
   display:grid;
-  grid-template-columns:repeat(3,1fr);
+  grid-template-columns:repeat(2,1fr);
   gap:24px;
   max-width:1320px;
   margin:0 auto;
-  min-width:780px;
+  min-width:520px;
+}
+.col-card[data-phase="future"]{
+  grid-column:1/-1;
 }
 
 /* ── Column Card ── */
@@ -374,12 +377,43 @@ body{
   font-size:16px;
 }
 
+/* ── Strategy Cards (inside FRS 2026 & Beyond) ── */
+.strategy-content{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:16px;
+}
+.strategy-card{
+  background:#fff;
+  border:1px solid #d0d7de;
+  border-radius:10px;
+  padding:20px;
+  transition:box-shadow 0.2s;
+}
+.strategy-card:hover{
+  box-shadow:0 4px 24px rgba(0,0,0,0.08);
+}
+.strategy-phase{
+  font-size:13px;
+  font-weight:700;
+  color:#1f6feb;
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+  margin-bottom:8px;
+}
+.strategy-detail{
+  font-size:13px;
+  color:#656d76;
+  line-height:1.5;
+}
+
 /* ── Responsive ── */
 @media(max-width:960px){
   .columns-grid{
     grid-template-columns:1fr;
     min-width:0;
   }
+  .strategy-content{grid-template-columns:1fr}
   .page-header{padding:24px 20px 20px}
   .page-header h1{font-size:22px}
   .columns-wrapper{padding:12px 12px 20px}
@@ -444,7 +478,7 @@ body{
 
       <div class="metric-section">
         <div class="section-title"><span class="icon">&#9646;</span> Tenements</div>
-        <div class="big-stat">~47<span class="unit">licences</span></div>
+        <div class="big-stat">~35<span class="unit">licences</span></div>
         <div class="stat-detail">Exploration &amp; mining tenure across Forrestania, Menzies &amp; Eastern Goldfields</div>
         <div class="tag-list">
           <span class="tag">Lady Lila</span>
@@ -456,7 +490,7 @@ body{
         <div class="section-title"><span class="icon">&#9670;</span> JORC Resources</div>
         <div class="big-stat">24k<span class="unit">oz Au</span></div>
         <div class="resource-list">
-          <div class="resource-item"><span class="res-name">Lady Lila</span><span class="res-oz">24,000 oz @ 1.38 g/t</span></div>
+          <div class="resource-item"><span class="res-name">Lady Lila</span><span class="res-oz">24,000 oz @ 1.38 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02947656" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
         </div>
         <div class="stat-detail">Lady Lila inferred resource (13 May 2025)</div>
         <div class="resource-bar">
@@ -492,7 +526,7 @@ body{
 
       <div class="metric-section">
         <div class="section-title"><span class="icon">&#9646;</span> Tenements</div>
-        <div class="big-stat">~91<span class="unit">licences</span></div>
+        <div class="big-stat">~209<span class="unit">licences</span></div>
         <div class="stat-detail">Across six regional hubs in the Yilgarn Craton</div>
         <div class="tag-list">
           <span class="tag">British Hill</span>
@@ -512,16 +546,16 @@ body{
         <div class="big-stat">722k<span class="unit">oz Au</span></div>
         <div class="stat-detail">17.4 Mt &middot; 1.30 g/t avg &middot; 10 deposits &middot; ~30&times; resource growth</div>
         <div class="resource-list">
-          <div class="resource-item"><span class="res-name">Lady Magdalene <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Option</span></span><span class="res-oz">237k oz @ 1.32 g/t</span></div>
-          <div class="resource-item"><span class="res-name">North Ironcap <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">106k oz @ 1.37 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Karonie <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#f0883e;color:#bc4c00">Pending</span></span><span class="res-oz">111k oz @ 1.20 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Burracoppin <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Not yet adopted</span></span><span class="res-oz">83k oz @ 1.20 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Lady Ada <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Option</span></span><span class="res-oz">60k oz @ 1.39 g/t</span></div>
-          <div class="resource-item"><span class="res-name">British Hill <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">55k oz @ 1.66 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Lady Lila <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">41k oz @ 1.03 g/t</span></div>
-          <div class="resource-item"><span class="res-name">MacPhersons Reward <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#f0883e;color:#bc4c00">Pending</span></span><span class="res-oz">15k oz @ 1.51 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Ada Ann <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">12k oz @ 1.67 g/t</span></div>
-          <div class="resource-item"><span class="res-name">Mt Palmer (tailings) <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#656d76;color:#656d76">Minority</span></span><span class="res-oz">2k oz @ 0.63 g/t</span></div>
+          <div class="resource-item"><span class="res-name">Lady Magdalene <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Option</span></span><span class="res-oz">237k oz @ 1.32 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978776" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">North Ironcap <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">106k oz @ 1.37 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02980414" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Karonie <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#f0883e;color:#bc4c00">Pending</span></span><span class="res-oz">111k oz @ 1.20 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03070645" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Burracoppin <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Not yet adopted</span></span><span class="res-oz">83k oz @ 1.20 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02994408" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Lady Ada <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#d29922;color:#9a6700">Option</span></span><span class="res-oz">60k oz @ 1.39 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978776" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">British Hill <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">55k oz @ 1.66 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975789" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Lady Lila <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">41k oz @ 1.03 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02993900" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">MacPhersons Reward <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#f0883e;color:#bc4c00">Pending</span></span><span class="res-oz">15k oz @ 1.51 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03060387" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Ada Ann <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#238636;color:#1a7f37">FRS Owned</span></span><span class="res-oz">12k oz @ 1.67 g/t</span><a href="https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02981333" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
+          <div class="resource-item"><span class="res-name">Mt Palmer (tailings) <span class="tag" style="font-size:9px;padding:1px 5px;border-color:#656d76;color:#656d76">Minority</span></span><span class="res-oz">2k oz @ 0.63 g/t</span><a href="https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6fxl448z5g1.pdf" target="_blank" rel="noopener" style="font-size:9px;color:#58a6ff;text-decoration:none;margin-left:4px">&#8599;</a></div>
         </div>
         <div class="resource-bar">
           <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
@@ -559,35 +593,40 @@ body{
     </div>
   </div>
 
-  <!-- ─── Column 3: FRS 2026 & Beyond ─── -->
+  <!-- ─── Column 3: FRS 2026 & Beyond — Potential Strategy ─── -->
   <div class="col-card" data-phase="future">
     <div class="col-header">
-      <div class="phase-label">Outlook</div>
+      <div class="phase-label">Potential Strategy</div>
       <div class="col-title">FRS 2026 &amp; Beyond</div>
-      <div class="col-date">Q4 CY2026 Onwards</div>
+      <div class="col-date">How FRS could scale from explorer to mid-tier producer</div>
     </div>
     <div class="col-body">
-
-      <div class="metric-section">
-        <div class="section-title"><span class="icon">&#9646;</span> Tenements</div>
-        <div class="placeholder">&nbsp;</div>
+      <div class="strategy-content">
+        <div class="strategy-card">
+          <div class="strategy-phase">Phase 1: Near-Term Cash Flow</div>
+          <div class="strategy-detail">
+            Placeholder: Gibraltar ore sale details, Westgold OPA revenue, immediate cash generation while mill is commissioned.
+          </div>
+        </div>
+        <div class="strategy-card">
+          <div class="strategy-phase">Phase 2: Mill Commissioning</div>
+          <div class="strategy-detail">
+            Placeholder: Lake Johnston Processing Plant commissioning, initial feed sources, production ramp-up timeline and targets.
+          </div>
+        </div>
+        <div class="strategy-card">
+          <div class="strategy-phase">Phase 3: Resource Consolidation</div>
+          <div class="strategy-detail">
+            Placeholder: Pending acquisitions, option exercises, resource base growth pathway from 722k oz towards 1M+ oz.
+          </div>
+        </div>
+        <div class="strategy-card">
+          <div class="strategy-phase">Phase 4: Scale-Up</div>
+          <div class="strategy-detail">
+            Placeholder: Longer-term production scenarios, funding runway, strategic positioning in the Yilgarn Craton.
+          </div>
+        </div>
       </div>
-
-      <div class="metric-section">
-        <div class="section-title"><span class="icon">&#9670;</span> JORC Resources</div>
-        <div class="placeholder">&nbsp;</div>
-      </div>
-
-      <div class="metric-section">
-        <div class="section-title"><span class="icon">&#9881;</span> Plant &amp; Facilities</div>
-        <div class="placeholder">&nbsp;</div>
-      </div>
-
-      <div class="metric-section">
-        <div class="section-title"><span class="icon">&#9650;</span> Production Profile</div>
-        <div class="placeholder">&nbsp;</div>
-      </div>
-
     </div>
   </div>
 
