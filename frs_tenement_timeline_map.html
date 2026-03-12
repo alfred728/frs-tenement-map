@@ -2535,18 +2535,18 @@ var PRIMARY_TARGETS = [
 // ── Other Listed Companies ──
 var OTHER_TARGETS = [
   {name:"Image Resources — Non-Core Gold Tenements", code:"IMA", owner:"Image Resources NL",
-   lat:-31.28, lon:122.69, oz:0, grade:0,
+   lat:-31.28, lon:122.69, oz:139000, grade:2.1,
    mill:"", status:"Active gold strategy review (Jan 2026)",
-   note:"Mineral sands producer (Boonanarring + Atlas) reviewing go-forward strategy for 2 gold exploration tenements ~140km SE of Kalgoorlie. Zero gold mining capability. Textbook non-core divestment.",
+   note:"Mineral sands producer (Boonanarring + Atlas) with maiden gold MRE of 2.0 Mt @ 2.1 g/t for 139,000 oz at Erayinia/King Gold Project (6 Jan 2026). Reviewing go-forward strategy for gold tenements ~140km SE of Kalgoorlie. Zero gold mining capability. Textbook non-core divestment — Argonaut Corporate Finance engaged as financial advisor.",
    estimatedCost:"",
    historicalProd:null, cmCost:null, impairment:null,
    saleTimeline:null,
-   resourceConfidence:"", resourceMethod:"",
+   resourceConfidence:"medium", resourceMethod:"jorc_inferred",
    resourceSourceNote:"",
    fitPoints:["Active live divestment review announced 11 Jan 2026 — seller ready to transact","Mineral sands company with zero gold mining capability or ambition","Scrip + NSR royalty structure aligns with FRS’s standard deal approach","Lake Johnston processing plant provides credible processing pathway"],
-   riskPoints:[{"text":"No declared JORC gold resource — exploration stage only","severity":"medium"},{"text":"Tenement locations ~140km SE of Kalgoorlie may be peripheral to FRS’s core belts","severity":"medium"},{"text":"Precise geological prospectivity unconfirmed without drilling data review","severity":"medium"}],
+   riskPoints:[{"text":"Maiden MRE is Inferred-only — requires further drilling to upgrade confidence","severity":"medium"},{"text":"Tenement locations ~140km SE of Kalgoorlie may be peripheral to FRS's core belts","severity":"medium"},{"text":"IMA may seek higher value given 139koz resource now declared","severity":"medium"}],
    competitors:["Low competition expected — non-core gold from a mineral sands company"],
-   sources:[{"label":"Image Resources — Gold Assets Strategy Review (11 Jan 2026)","url":"https://www.abnnewswire.net/press/en/126063/image-resources-nl-asx-ima-gold-assets-strategy-review"},{"label":"Image Resources — Corporate Website","url":"https://www.imageres.com.au/"},{"label":"ASX Announcements — IMA","url":"https://www2.asx.com.au/markets/company/IMA"}],
+   sources:[{"label":"Image Resources — Gold Assets Strategy Review (11 Jan 2026)","url":"https://www.abnnewswire.net/press/en/137173/Image-Resources-NL-(ASX-IMA)-Gold-Assets-Strategy-Review.html"},{"label":"Image Resources — Corporate Website","url":"https://www.imageres.com.au/"},{"label":"ASX Announcements — IMA","url":"https://www2.asx.com.au/markets/company/IMA"}],
    existing:false, asx:"https://www.asx.com.au/markets/company/IMA",
    tenements:[
      {id:"E28/1895",type:"EXPLORATION LICENCE",area:"n/a",holder:"IMAGE RESOURCES NL",expiry:"n/a",
@@ -2593,7 +2593,7 @@ var OTHER_TARGETS = [
    saleTimeline:null,
    resourceConfidence:"high", resourceMethod:"exploration_only",
    resourceSourceNote:"Mt Gordon / Xmas / Richard is treated as discovery-stage gold with drill intercepts, not a JORC resource in the local target analysis.",
-   fitPoints:["Lake Johnston project area — adjacent to FRS’s processing plant","Xmas Gold: 12m @ 6.55 g/t (incl. 4m @ 16.9 g/t, 1m @ 41.5 g/t)","Richard Gold prospect: 5m @ 7.15 g/t adds further upside","Terminated US$42.5M Rio Tinto farm-in — retaining 100% ownership","Gold is secondary to lithium focus — natural divestment candidate"],
+   fitPoints:["Lake Johnston project area — adjacent to FRS’s processing plant","Xmas Gold: 12m @ 6.55 g/t (incl. 4m @ 16.9 g/t, 1m @ 41.5 g/t)","Richard Gold prospect: 5m @ 7.15 g/t adds further upside","Terminated Rio Tinto farm-in (potential US$42.5M earn-in for 75%) after ~$6.4M spent — retaining 100% ownership","Gold is secondary to lithium focus — natural divestment candidate"],
    riskPoints:[{"text":"No JORC gold resource declared — discovery stage with high-grade drill intercepts only","severity":"medium"},{"text":"Charger rejected $6.5M Core Lithium takeover — may have elevated price expectations","severity":"medium"},{"text":"~$10M market cap — gold rights deal structure must be carefully negotiated","severity":"medium"}],
    competitors:["Low competition — Charger’s primary focus is lithium"],
    sources:[{"label":"Charger Metals — Xmas Gold Discovery (ASX announcement)","url":"https://www2.asx.com.au/markets/company/CHR"},{"label":"Charger Metals — Rio Tinto Farm-in Termination","url":"https://www2.asx.com.au/markets/company/CHR"},{"label":"Charger Metals — Corporate Website","url":"https://www.chargermetals.com.au/"}],
@@ -2616,7 +2616,7 @@ var OTHER_TARGETS = [
   {name:"TG Metals — Van Uden Gold Project", code:"TG6", owner:"TG Metals Limited",
    lat:-32.2765, lon:120.1983, oz:227140, grade:1.1,
    deposits:[
-     {name:"Van Uden (Dieman + Laterite + Tasman)", tonnes:"6.35 Mt", grade:"1.15 g/t", oz:227140, tenements:["M77/477","M77/478","M77/522","M77/523"], note:"Indicated + Inferred. A$5,000/oz pit shell. Resource update Q1 2026."},
+     {name:"Van Uden (Dieman + Laterite + Tasman)", tonnes:"6.35 Mt", grade:"1.1 g/t", oz:227140, tenements:["M77/477","M77/478","M77/522","M77/523"], note:"Indicated + Inferred. A$5,000/oz pit shell. Resource update Q1 2026."},
      {name:"Stockpiles (ROM + Laterite)", tonnes:"42,933 t", grade:"0.90 g/t", oz:1243, tenements:["M77/477","M77/478"], note:"Fully permitted for trucking to Lake Johnston mill."}
    ],
    mill:"90.7% gold recovery (metallurgy)", status:"Resource update imminent Q1 2026",
@@ -2740,7 +2740,7 @@ var OTHER_TARGETS = [
    ]
   },
   {name:"Classic Minerals — Forrestania Gold Project", code:"CLZ", owner:"Classic Minerals Ltd",
-   lat:-31.7614, lon:122.5509, oz:377946, grade:1.45,
+   lat:-31.7614, lon:122.5509, oz:297579, grade:1.35,
    mill:"", status:"Suspended from ASX; no CEO since Apr 2025",
    note:"578 km² Forrestania package. Lady Ada/Lady Magdalene deposits are core HPH assets subject to FRS's existing binding option ($15.2M total, $60K/month extension). Direct CLZ approach may be cheaper than exercising HPH option given company's distressed state.",
    estimatedCost:"",
@@ -2748,7 +2748,7 @@ var OTHER_TARGETS = [
    saleTimeline:null,
    resourceConfidence:"low", resourceMethod:"project_mapped_not_direct_tenement",
    resourceSourceNote:"FRS_Acquisition_Target_Analysis_2026-03-11.md lines 272-285",
-   fitPoints:["Up to 377,946 oz @ 1.45 g/t JORC resource in Forrestania Belt","FRS holds binding option on HPH (Lady Ada/Lady Magdalene core assets)","Goldbridge Processing Facility — 250 ktpa CIL design study, ~93% recovery","Suspended from ASX with $53K cash and $13.68M debt — distressed asset","No CEO since April 2025 — minimal corporate resistance to deal"],
+   fitPoints:["~298,000 oz @ 1.35 g/t JORC resource in Forrestania Belt (Indicated 70koz + Inferred 228koz)","FRS holds binding option on HPH (Lady Ada/Lady Magdalene core assets)","Goldbridge Processing Facility — 250 ktpa CIL design study, ~93% recovery","Suspended from ASX with $53K cash and $13.68M debt — distressed asset","No CEO since April 2025 — minimal corporate resistance to deal"],
    riskPoints:[{"text":"$13.68M debt may encumber assets or complicate acquisition structure","severity":"high"},{"text":"ASX suspension creates uncertainty around tenure status and obligations","severity":"high"},{"text":"HPH option ($15.2M total) may be more cost-effective than direct CLZ approach","severity":"medium"}],
    competitors:["Unlikely competition — company is suspended with no management"],
    sources:[{"label":"Classic Minerals — Lady Ada JORC Resource (377,946 oz)","url":"https://www2.asx.com.au/markets/company/CLZ"},{"label":"Classic Minerals — ASX Suspension Notice","url":"https://www2.asx.com.au/markets/company/CLZ"},{"label":"FRS — HPH Option Agreement (ASX announcement)","url":"https://www2.asx.com.au/markets/company/FRS"}],
@@ -2886,8 +2886,8 @@ var OTHER_TARGETS = [
      {name:"Marionete-Star of Ennuin (prospect)", tonnes:"—", grade:"—", oz:0, tenements:[], note:""},
      {name:"Baby Queen (prospect)", tonnes:"—", grade:"—", oz:0, tenements:[], note:""}
    ],
-   mill:"No mill - exploration stage. Nearest: Edna May (Ramelius) ~60km, Marvel Loch (Minjar) ~60km", status:"Active explorer. Aggressive drill program underway. Maiden JORC resource at Hopes Hill targeted 2026. $43.7M cash.",
-   note:"Pre-resource explorer with exceptional drill results at Hopes Hill (2.5km strike, mineralisation to 363m depth). Historical production of 216koz @ 2.25 g/t from shallow pit. Regional discoveries at Golden Valley (Marionete, Baby Queen). Sorrel copper project (88.6kt Cu). Emerald Resources is major shareholder.",
+   mill:"No mill - exploration stage. Nearest: Edna May (Ramelius) ~60km, Marvel Loch (Minjar) ~60km", status:"Active explorer. Aggressive drill program underway. Maiden JORC resource at Hopes Hill targeted H1 2026. ~$16M cash.",
+   note:"Pre-resource explorer with exceptional drill results at Hopes Hill (2.5km strike, mineralisation to 363m depth). Historical production of 216koz @ 2.25 g/t from shallow pit. Regional discoveries at Golden Valley, Marionete, Baby Queen. Emerald Resources NL holds ~20% stake. Listed Dec 2024 via IPO. Maiden JORC MRE expected H1 2026.",
    estimatedCost:"",
    historicalProd:null, cmCost:null, impairment:null,
    saleTimeline:null,
@@ -2968,22 +2968,22 @@ var OTHER_TARGETS = [
    ]
   },
   {name:"Medallion Metals — Kundip & Forrestania", code:"MM8", owner:"Medallion Metals Limited",
-   lat:-33.519049, lon:120.137349, oz:1259000, grade:3.4,
+   lat:-33.519049, lon:120.137349, oz:1259000, grade:2.3,
    deposits:[
-     {name:"Kundip Mining Centre (KMC) - Global", tonnes:"—", grade:"—", oz:1090000, tenements:[], note:""},
+     {name:"Kundip Mining Centre (KMC) - Global", tonnes:"—", grade:"—", oz:1080000, tenements:[], note:""},
      {name:"KMC Open Pit", tonnes:"—", grade:"—", oz:240000, tenements:[], note:""},
      {name:"KMC Underground (Fresh)", tonnes:"—", grade:"—", oz:840000, tenements:[], note:""},
      {name:"Trilogy (polymetallic)", tonnes:"—", grade:"—", oz:169000, tenements:[], note:""}
    ],
-   mill:"Acquiring Forrestania Nickel Operation (Cosmic Boy Concentrator) from IGO. Flotation-CIL pathway. 94.3% Au recovery.", status:"Feasibility Study complete Dec 2025. Acquiring FNO from IGO (Feb 2026 target). FID and development execution imminent. $68.1M cash. Trafigura US$50M prepay facility mandated.",
-   note:"Advanced developer with completed Feasibility Study (Dec 2025) showing 374koz Au & 15kt Cu over 5.7yr mine life at AISC A$2,279/oz. NPV8 A$443M (base) / A$668M (spot). Acquiring IGO Forrestania Nickel Operation (Cosmic Boy concentrator) for processing — flotation-CIL pathway with 94.3% Au recovery. Kundip Mining Centre is primary deposit (~350km south at Ravensthorpe). 1.5% NSR royalty to IGO, no upfront cash. Trafigura US$50M prepay facility mandated. Actively reviewing strategic growth opportunities for the Forrestania processing hub.",
+   mill:"Forrestania Nickel Operation (Cosmic Boy) — acquired from IGO. Flotation-CIL. 94.3% Au recovery.", status:"Feasibility Study complete Dec 2025. FNO acquisition from IGO completed. Production development underway. Trafigura US$50M prepay facility mandated.",
+   note:"Advanced developer with completed Feasibility Study (Dec 2025) showing 336koz Au & 13kt Cu over 5.5yr mine life at AISC A$1,845/oz (with Cu credit). Pre-tax NPV8 A$329M (base) / A$429M (spot). Acquired IGO Forrestania Nickel Operation (Cosmic Boy concentrator) for no cash — 1.5% NSR royalty on future gold production. Flotation-CIL pathway with 94.3% Au recovery. Kundip Mining Centre is primary deposit (~350km south at Ravensthorpe). Actively reviewing strategic growth opportunities for the Forrestania processing hub.",
    estimatedCost:"",
    historicalProd:null, cmCost:null, impairment:null,
    saleTimeline:null,
    resourceConfidence:"medium", resourceMethod:"project_mapped",
    resourceSourceNote:"",
    fitPoints:["Acquiring Cosmic Boy concentrator at Forrestania — potential regional gold toll-treatment partner for FRS","Actively seeking third-party ore feed — stated 'reviewing multiple strategic growth opportunities for Forrestania processing hub'","900 km² Forrestania greenstone belt tenure with historical gold endowment — potential JV on regional exploration","Lake Johnston (FRS) is ~125km from Cosmic Boy — potential ore-sharing or swing production arrangements","1.26 Moz JORC resource (374koz reserve) demonstrates quality of Forrestania geology"],
-   riskPoints:[{"text":"Well-funded advanced developer heading to production — not a distressed seller. Market cap ~A$300M+.","severity":"high"},{"text":"Kundip ore trucked 125km to Forrestania Cosmic Boy — logistics complexity for any ore-sharing arrangement","severity":"medium"},{"text":"IGO retains nickel and lithium rights across Forrestania tenements — complex tenure arrangements","severity":"medium"}],
+   riskPoints:[{"text":"Well-funded advanced developer heading to production — not a distressed seller. Market cap ~A$386M.","severity":"high"},{"text":"Kundip ore trucked 125km to Forrestania Cosmic Boy — logistics complexity for any ore-sharing arrangement","severity":"medium"},{"text":"IGO retains nickel and lithium rights across Forrestania tenements — complex tenure arrangements","severity":"medium"}],
    competitors:["IGO Limited (existing relationship)","Trafigura (offtake and finance)","Northern Star / Evolution (regional)"],
    sources:[{"label":"MM8 Feasibility Study (ASX, 12 Dec 2025)","url":"https://www2.asx.com.au/markets/company/MM8"},{"label":"MM8 Dec 2025 Quarterly Activities Report (ASX, 30 Jan 2026)","url":"https://www2.asx.com.au/markets/company/MM8"},{"label":"MM8 FNO Acquisition from IGO (ASX announcement)","url":"https://www2.asx.com.au/markets/company/MM8"}],
    existing:false, asx:"https://www.asx.com.au/markets/company/MM8",
@@ -3071,7 +3071,7 @@ var OTHER_TARGETS = [
      {name:"King Solomon", tonnes:"—", grade:"—", oz:90022, tenements:[], note:""},
      {name:"Tindals UG", tonnes:"—", grade:"—", oz:70483, tenements:[], note:""}
    ],
-   mill:"Three Mile Hill processing plant at Coolgardie (1.3Mtpa CIL). Operating and producing gold.", status:"Operating producer. Restarted production at Coolgardie in 2023. Mining Bonnie Vale, Big Blow, CNX, Greenfields, Dreadnought, Alicia open pits. Chinese-owned (Shandong Gold Mining Co).",
+   mill:"Three Mile Hill processing plant at Coolgardie (1.4 Mtpa CIL). Operating and producing gold.", status:"Operating producer. Restarted production at Coolgardie in 2023. Mining Bonnie Vale, Big Blow, CNX, Greenfields, Dreadnought, Alicia open pits. Chinese-owned (Shandong Gold Mining Co).",
    note:"Mid-tier gold producer with extensive Coolgardie tenure (~4Moz total gold resource). Three Mile Hill plant operating at 1.3Mtpa. Multiple open pit and underground deposits. Coolgardie is ~230-240km from Edna May mill and ~140-160km from Lake Johnston. Chinese parent company (Shandong Gold) provides financial backing but may complicate M&A.",
    estimatedCost:"",
    historicalProd:null, cmCost:null, impairment:null,
@@ -3287,6 +3287,7 @@ var OTHER_TARGETS = [
    ]
   }
 ];
+
 
 
 
